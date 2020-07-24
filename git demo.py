@@ -14,4 +14,5 @@ for i in range (0,len(list1)):
     k=a[0]+ empty[0] + a[-1]
     list2.append(k)
     
-print(list2)         
+print(list2)    
+print(list1)
